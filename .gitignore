@@ -1,0 +1,7 @@
+env.py
+.ipynb_checkpoi
+.DS_Store
+__pycache__/
+*.csv
+*.xlsx
+Untitled*.ipynb
